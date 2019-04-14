@@ -1,2 +1,1 @@
-It is the second example
-preparing for delivery
+Sample 1:abcde
