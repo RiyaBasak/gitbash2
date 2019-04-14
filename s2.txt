@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Sample 1:abcde
+=======
+sample2:poiuyt
+>>>>>>> sample2
